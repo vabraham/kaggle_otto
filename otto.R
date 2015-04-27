@@ -23,6 +23,3 @@ varImpPlot(fit)
 pred <- predict(fit,test,type="prob")
 submit <- data.frame(id = test$id, pred)
 write.csv(submit, file = "firstsubmit.csv", row.names = FALSE)
-
-
-
