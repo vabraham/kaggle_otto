@@ -14,7 +14,7 @@ library(randomForest)
 # the number does not matter
 set.seed(12)
 # create a random forest model using the target field as the response and all 93 features as inputs
-fit <- randomForest(target ~ ., data=train2, importance=TRUE, ntree=100)
+fitrf <- randomForest(target ~ ., data=train2, importance=TRUE, ntree=100)
 
 # create a dotchart of variable/feature importance as measured by a Random Forest
 varImpPlot(fit)

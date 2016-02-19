@@ -3,7 +3,7 @@ rm(list=ls())
 # Load data
 train <- read.csv("/Users/vabraham24/Documents/RStudio/kaggle_otto/data/train.csv")
 test <- read.csv("/Users/vabraham24/Documents/RStudio/kaggle_otto/data/test.csv")
-samplesub <- read.csv("/Users/vabraham24/Documents/RStudio/kaggle_otto/data/sampleSubmission.csv")
+submission <- read.csv("/Users/vabraham24/Documents/RStudio/kaggle_otto/data/sampleSubmission.csv")
 # Remove id column so it doesn't get picked up by the current classifier
 train <- train[,-1]
 summary(train)

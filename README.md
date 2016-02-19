@@ -1,7 +1,6 @@
-# kaggle_otto
+## Submissions for Kaggle Otto Group Product Classification Challenge
 
-Submissions for Kaggle Otto Group Product Classification Challenge
-
+###Competition Details:
 http://www.kaggle.com/c/otto-group-product-classification-challenge
 
 Beating the benchmark with random forest:
