@@ -1,12 +1,12 @@
 ## Submissions for Kaggle Otto Group Product Classification Challenge
 
-###Competition Details:
+### Competition Details
 http://www.kaggle.com/c/otto-group-product-classification-challenge
 
-Beating the benchmark with random forest:
+*Beating the benchmark with random forest*
 
-http://www.numbrcrunch.com/blog/beating-the-benchmark-for-the-kaggle-otto-group-product-classification-challenge-with-a-simple-r-script
+https://www.r-bloggers.com/beating-the-benchmark-for-the-kaggle-otto-group-product-classification-challenge-with-a-simple-r-script/
 
-Comparing tree-based classification methods:
+*Comparing tree-based classification methods*
 
-http://www.numbrcrunch.com/blog/comparing-tree-based-classification-methods-using-the-kaggle-otto-competition
+https://www.r-bloggers.com/comparing-tree-based-classification-methods-via-the-kaggle-otto-competition/
